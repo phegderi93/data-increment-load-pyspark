@@ -29,9 +29,4 @@ The project is organized into the following components:
 - Delta Lake
 - macOS (or compatible environment)
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/data-warehouse-learning.git
-   cd data-warehouse-learning
